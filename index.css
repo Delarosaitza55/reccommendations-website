@@ -1,11 +1,20 @@
 sub{
   margin: 10px;
   font-size: x-large;
+  color: white;
 }
-main{
-  background-color: aqua;
-  
+body { 
+  color: white;
+  margin: 10px;
+  padding: 10px;
 }
-section{
-  
+
+body{
+  background-color: mediumpurple;
+background-image: url(https://static01.nyt.com/images/2018/09/30/travel/30Hours-Tucson1/merlin_143947515_d3236d91-2d13-4c7e-bf67-1eea4c017ac2-jumbo.jpg);
+  background-size: cover
+}
+
+h1{
+  color: white;
 }
