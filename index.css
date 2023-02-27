@@ -1,20 +1,24 @@
-sub{
+sub {
   margin: 10px;
   font-size: x-large;
   color: white;
 }
-body { 
+
+body {
   color: white;
   margin: 10px;
   padding: 10px;
+  min-height: 100vh;
+ 
 }
 
-body{
-  background-color: mediumpurple;
-background-image: url(https://static01.nyt.com/images/2018/09/30/travel/30Hours-Tucson1/merlin_143947515_d3236d91-2d13-4c7e-bf67-1eea4c017ac2-jumbo.jpg);
-  background-size: cover
+body {
+  background-color: beige;
+  background-image: url(https://images.discerningassets.com/image/upload/c_fill,h_1000,w_1000/c_fit,fl_relative,h_1.0,o_100,w_1.0/c_fill,w_1000,h_1000/v1579239631/Saguaro_Sunset_mrvelq.jpg);
+  background-size: cover;
+
 }
 
-h1{
+h1 {
   color: white;
 }
